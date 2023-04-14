@@ -5,7 +5,7 @@
 * I will use rabbit mq with web api soon 
 
 ## How to create RabbitMq Server ?
-* I have used docker for creating rabbit mq server. Her is how you can create your on container with dockerfile
+* I have used docker for creating rabbit mq server. Here is how you can create your on container with dockerfile
 
 ```console
 
