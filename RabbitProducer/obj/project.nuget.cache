@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "78a7rDNDXHwEPLpNDOYw/kdAHjVhuN24/mKAIV9JC5WoJB6qRQH8XxWRnHMU0jhuMcvGrkkS3i6pUdg2kEU+rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\RabbitMQDemo\\RabbitProducer\\RabbitProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.3.23174.8\\microsoft.extensions.configuration.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.3.23174.8\\microsoft.extensions.configuration.abstractions.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.3.23174.8\\microsoft.extensions.primitives.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\erdal\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
