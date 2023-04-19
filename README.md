@@ -2,7 +2,7 @@
 # RabbitMq Project with Console App
 
 * I have created console app with .net core 7.0 in order to understand how rabbit mq and generally queuing works.
-* I will use rabbit mq with web api soon with publish-subsribe pattern
+
 
 ## How to create RabbitMq Server ?
 * I have used docker for creating rabbit mq server. Here is how you can create your on container with dockerfile
